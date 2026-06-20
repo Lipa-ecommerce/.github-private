@@ -96,4 +96,3 @@ We're building carefully, testing with real merchants, and preparing for launch.
 <sub><em>Details shared on request. Not open source.</em></sub>
 
 </div>
-"# .github-private" 
